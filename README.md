@@ -43,20 +43,34 @@ EDA was conducted using tools like `dataprep` and `dtale` to gain insights into 
 #### Fig 1: Contracted Hours by Job Title
 Senior carers have significantly higher average contracted hours compared to other job titles. Social referrals are prevalent for carer and senior carer roles but are absent in nursing jobs.
 
+![Fig 1](fig1.png)
+
+
 #### Fig 2: Applications by Platform and Job Title
 Applications for senior carer roles are fewer despite higher contracted hours, possibly due to stricter entry qualifications.
+
+![Fig 2](fig2.png)
 
 #### Fig 3: Demographics Analysis
 Candidates from densely populated areas tend to have more full-time workers, indicating potential job market trends in these regions.
 
+![Fig 3](fig3.png)
+
 #### Fig 4: Contracted Hours vs. Length of Service
 Contract hours for employees stabilize around 20-40 hours initially but show variability after 60 months, especially for ex-employees.
+
+![Fig 4](fig4.png)
 
 #### Fig 5 & 6: Applications by Day and Hour
 Applications peak during weekdays (office hours) and drop significantly during weekends.
 
+![Fig 5](fig5.png)
+![Fig 6](fig6.png)
+
 #### Fig 7: Applications and Contract Hours by Job Title
 Carer jobs receive the highest applications, likely due to balanced contracted hours and entry-level requirements.
+
+![Fig 7](fig7.png)
 
 ### Correlation Analysis
 
@@ -71,17 +85,8 @@ A correlation analysis was conducted to identify highly correlated features. The
 
 For these features, a correlation matrix and pair plot were generated to visualize their relationships.
 
-## Figures
+![Fig corr](correleationfeature.png)
 
-Placeholder for figures:
-
-- **Fig 1**: ![Fig 1](fig 1.png)
-- **Fig 2**: ![Fig 2](fig 2.png)
-- **Fig 3**: ![Fig 3](fig3.png)
-- **Fig 4**: ![Fig 4](fig 4.png)
-- **Fig 5**: ![Fig 5](fig 5.png)
-- **Fig 6**: ![Fig 6](fig 6.png)
-- **Fig 7**: ![Fig 7](fig 7.png)
 
 ## Conclusion
 
